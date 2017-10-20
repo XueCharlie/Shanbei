@@ -1,0 +1,5 @@
+$ git config user.name "XC"
+> git config user.email "xyh_52@126.com"
+> git add *
+> git commit -m "1st version"
+>
